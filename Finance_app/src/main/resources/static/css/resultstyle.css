@@ -1,0 +1,26 @@
+table {
+ 
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th{
+ color:White;
+ background-color: #000080;
+ text-align: left;
+  padding: 16px;
+}
+
+  td {
+   background-color: #87CEFA;
+  text-align: left;
+  padding: 16px;
+}
+
+h1 {
+  font-family: inherit;
+  
+  color: #00008B;
+  
+}
